@@ -41,7 +41,7 @@ int main()
     {
         for (int j = 0; j < y; j++)
         {
-            arr[i][j] = count++;
+            arr[i][j] = count++; // 1¾¿ Ä¿Áü.
         }
     }
 
