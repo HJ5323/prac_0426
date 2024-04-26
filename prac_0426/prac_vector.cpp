@@ -12,6 +12,7 @@ using namespace std;
 //7. 인덱스를 입력 받아 해당 인덱스에 있는 원소 제거
 //8. 인덱스를 입력 받아 해당 인덱스에 있는 새로운 원소 삽입
 
+// ctrl + H (검색 및 바꾸기) ->  alt + R (하나씩 바꾸기), alt + A (전체 바꾸기)
 
 void printVector(const vector<int>& v) // 벡터의 모든 원소 출력
 {
